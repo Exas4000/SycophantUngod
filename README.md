@@ -1,2 +1,3 @@
-# SycophantUngod
-Brutal orchestra clan mod for monster train 2
+# Sycophant_of_the_Ungod
+
+A brutal orchestra clan mod!
